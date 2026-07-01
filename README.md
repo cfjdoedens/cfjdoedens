@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cfjdoedens
-- 👀 I’m interested in programming in R of new algorithms for sampling and evaluation of samples
+- 👀 I’m interested in programming of new algorithms for sampling and evaluation of samples
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on these algorithms 
 - 📫 How to reach me github@chance-matters.nl
